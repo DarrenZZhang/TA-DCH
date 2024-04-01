@@ -1,5 +1,5 @@
 # TA-DCH
-Source code for the paper "Targeted Adversarial Attack for Deep Cross-modal Hashing Retrieval".
+Source code for the paper "Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval".
 
 ## Requirements
 * python == 3.7.10
@@ -57,4 +57,4 @@ Alternatively, you can use the trained attack model for testing. The trained att
 * The trained attack model: https://pan.baidu.com/s/11-tImjfgQKwzpywPnb9LOg <br> Password: f56x
 
 ## Citation
-Coming soon...
+T. Wang, L. Zhu, Z. Zhang, H. Zhang, J. Han, Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol.33, no. 10, pp. 6159-6172, 2023.
